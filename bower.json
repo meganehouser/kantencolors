@@ -1,0 +1,19 @@
+{
+  "name": "yokan",
+  "version": "1.0.0",
+  "authors": [
+    "Satoshi Terajima <sleepy.st818@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./project/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "*"
+  }
+}
